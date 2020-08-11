@@ -1,0 +1,21 @@
+{
+  "name": "threejs-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "live-server ./ --port=8099"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoyibaba/threejs-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoyibaba/threejs-demo/issues"
+  },
+  "homepage": "https://github.com/xiaoyibaba/threejs-demo#readme"
+}
